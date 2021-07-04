@@ -1,9 +1,4 @@
-//github_account
-
-eldonleka               //username
-EHK68zVw0USDSsdSS      //password
-
-
+cs50 shortcuts
 
 help50 make hello
 
